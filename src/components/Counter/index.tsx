@@ -12,7 +12,4 @@ export function Counter(){
     return (
         <button onClick={handleClick}>Contador {counter}</button>
     )
-
-
-
 }
